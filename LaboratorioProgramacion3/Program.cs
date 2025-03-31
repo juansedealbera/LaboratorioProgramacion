@@ -11,6 +11,7 @@ namespace LaboratorioProgramacion3
         static void Main(string[] args)
         {
             Console.WriteLine("¡Buen lunes para programar!");
+            Console.WriteLine("¡Buen lunes para codear!");
         }
     }
 }
